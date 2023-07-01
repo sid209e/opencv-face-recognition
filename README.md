@@ -1,7 +1,7 @@
 # opencv-face-recognition
 
 
-The Face Recognition App is a Python application that utilizes computer vision techniques to detect and recognize faces in real-time. It provides functionality for capturing faces, training a recognition model, and performing face recognition on live video streams.
+The face recognition application utilizes computer vision techniques to detect and recognize faces in real-time. It provides functionality for capturing faces, training a recognition model, and performing face recognition on live video streams.
 
 ## Features
 
